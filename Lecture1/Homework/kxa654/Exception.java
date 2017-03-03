@@ -11,12 +11,13 @@ public class Exception {
     try {
         
         FileReader reader = new FileReader(x);
-        
-        
-            
-            System.out.println((char)reader.read());
-        
-        
+          
+         int line = reader.read();
+         
+        while(line != -1){
+             System.out.print((char)line);
+             line = reader.read();
+         }
     }
         
     catch (FileNotFoundException e) {
