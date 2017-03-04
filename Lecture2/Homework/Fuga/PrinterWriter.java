@@ -24,7 +24,7 @@ package fuga;
 				o = s.nextLine();
 				
 				writer.write(o);
-				
+                writer.write(System.lineSeparator());
 
 			}
 
