@@ -1,0 +1,2 @@
+I have made a class PrintWriter which takes input from the aommand line using scanner object and then print that line into a file (myfile.txt) using FileWriter. The while loop checks if the scanned input equals out or not. if the input is out, the program terminates and scanner and writer objects are also closed. 
+I have not been able to print the input on seperatelines. i have been getting a nullpoint exception. 
