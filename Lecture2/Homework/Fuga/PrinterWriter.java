@@ -1,4 +1,4 @@
-package fuga;
+package Homework.Fuga;
 
 	import java.io.File;
 	import java.io.FileWriter;
@@ -12,7 +12,7 @@ package fuga;
 			String o = "a";
 		
 
-			File x = new File("\\Users\\User\\Desktop\\Practice\\TheProgrammingProjekt\\Lecture2\\Homework\\Fuga\\myfile.txt");
+			File x = new File("/Users/merlin11/Desktop/TheProgrammingProjekt/Lecture2/Homework/Fuga/myfile.txt");
 			FileWriter writer = new FileWriter(x);
 
 			System.out.println("Enter to add in file");
