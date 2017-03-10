@@ -6,4 +6,4 @@
 
 3. You have to tell me the role of JVM(java Virtual Machine) in the Thread Class.
 
-4. Edit the REDADME.md in the lecture4 folder, specifying what you did today. 
+4. Edit the REDADME.md in the lecture2 folder, specifying what you did today. 
